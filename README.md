@@ -28,7 +28,7 @@
    若不存在则会自动创建输出文件。
 
 4. 接下来输入使用LL文法还是使用LR文法进行结果检验
-
-   ![image-20220430165740544](C:\Users\Fanghawk\AppData\Roaming\Typora\typora-user-images\image-20220430165740544.png)
+   输入1 使用LL文法
+   输入2 使用LR文法
 
 5. 等待输出
